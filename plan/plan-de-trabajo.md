@@ -2,5 +2,5 @@
 
 | Integrantes | Rol | Que hace |
 |---|---|---|
-| Bairon | 
-| Freiner |
+| Bairon | Coordinación y repositorio | Crea el repositorio y entrega el enlace |
+| Freiner | Maquinas virtuales y red | Instala las dos VMs |
